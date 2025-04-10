@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "brand": "Toyota",
+      "model": "Corolla",
+      "fuel": "Petrol",
+      "price": 18000,
+      "seating": 5,
+      "image": "https://source.unsplash.com/featured/?toyota"
+    },
+    {
+      "id": 2,
+      "brand": "Honda",
+      "model": "Civic",
+      "fuel": "Diesel",
+      "price": 22000,
+      "seating": 5,
+      "image": "https://source.unsplash.com/featured/?honda"
+    },
+    {
+      "id": 3,
+      "brand": "Tesla",
+      "model": "Model 3",
+      "fuel": "Electric",
+      "price": 35000,
+      "seating": 5,
+      "image": "https://source.unsplash.com/featured/?tesla"
+    }
+  ]
+  
